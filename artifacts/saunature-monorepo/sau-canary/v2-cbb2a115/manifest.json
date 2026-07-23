@@ -1,0 +1,31 @@
+{
+  "schema": "arco.review-artifact/v1",
+  "product": "saunature-monorepo",
+  "issue": "SAU-CANARY",
+  "version": "v2-cbb2a115",
+  "source_sha": "cbb2a1153ef678a18ae05968e9349434e56c5296",
+  "title": "SAU Review Artifact Canary",
+  "marker": "SAU-PUBLIC-CANARY-20260723",
+  "audience": "external-team",
+  "mode": "link-only",
+  "confidentiality": "SYNTHETIC · CONFIDENTIAL REVIEW",
+  "expires_at": null,
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "screenshot": "desktop.png"
+    },
+    {
+      "name": "true-390",
+      "width": 390,
+      "height": 844,
+      "screenshot": "true-390.png"
+    }
+  ],
+  "entrypoint": "index.html",
+  "artifact_path": "artifacts/saunature-monorepo/sau-canary/v2-cbb2a115",
+  "published_at": "2026-07-23T04:24:02.041Z",
+  "content_sha256": "2b770d38f2dad13c336144ce09f15fb150f2112b78bf194e96ae4d1de9ad3f85"
+}
