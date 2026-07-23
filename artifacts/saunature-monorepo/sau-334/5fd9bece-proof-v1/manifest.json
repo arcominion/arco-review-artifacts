@@ -1,0 +1,37 @@
+{
+  "schema": "arco.review-artifact/v1",
+  "product": "saunature-monorepo",
+  "issue": "SAU-334",
+  "version": "5fd9bece-proof-v1",
+  "source_sha": "5fd9bece5c1bcb1fbdab01c760bf105719dd2245",
+  "title": "SAU-334 matched visual proof",
+  "marker": "sau-334-matched-proof",
+  "audience": "external-team",
+  "mode": "link-only",
+  "confidentiality": "SANITIZED ENGINEERING PROOF",
+  "expires_at": null,
+  "viewports": [
+    {
+      "name": "desktop-before",
+      "width": 1440,
+      "height": 1200,
+      "screenshot": "before-cancellation-1440x1200.png",
+      "innerWidth": 1440,
+      "clientWidth": 1440,
+      "scrollWidth": 1440
+    },
+    {
+      "name": "mobile-before",
+      "width": 390,
+      "height": 844,
+      "screenshot": "before-mobile-390x844.png",
+      "innerWidth": 390,
+      "clientWidth": 390,
+      "scrollWidth": 390
+    }
+  ],
+  "entrypoint": "index.html",
+  "artifact_path": "artifacts/saunature-monorepo/sau-334/5fd9bece-proof-v1",
+  "published_at": "2026-07-23T09:40:48.108Z",
+  "content_sha256": "85043f97a0b492bff8d7cc1645ffa733660fc2528ce3ba11e2d3a1c460d40258"
+}

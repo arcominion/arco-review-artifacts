@@ -1,0 +1,33 @@
+{
+  "product": "saunature-monorepo",
+  "issue": "SAU-334",
+  "version": "5fd9bece-proof-v1",
+  "sourceSha": "5fd9bece5c1bcb1fbdab01c760bf105719dd2245",
+  "title": "SAU-334 matched visual proof",
+  "marker": "sau-334-matched-proof",
+  "audience": "external-team",
+  "mode": "link-only",
+  "sourceDir": ".",
+  "entrypoint": "index.html",
+  "confidentiality": "SANITIZED ENGINEERING PROOF",
+  "viewports": [
+    {
+      "name": "desktop-before",
+      "width": 1440,
+      "height": 1200,
+      "screenshot": "before-cancellation-1440x1200.png",
+      "innerWidth": 1440,
+      "clientWidth": 1440,
+      "scrollWidth": 1440
+    },
+    {
+      "name": "mobile-before",
+      "width": 390,
+      "height": 844,
+      "screenshot": "before-mobile-390x844.png",
+      "innerWidth": 390,
+      "clientWidth": 390,
+      "scrollWidth": 390
+    }
+  ]
+}
