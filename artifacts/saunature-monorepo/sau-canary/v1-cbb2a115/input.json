@@ -1,0 +1,17 @@
+{
+  "product": "saunature-monorepo",
+  "issue": "SAU-CANARY",
+  "version": "v1-cbb2a115",
+  "sourceSha": "cbb2a1153ef678a18ae05968e9349434e56c5296",
+  "title": "SAU Review Artifact Canary",
+  "marker": "SAU-PUBLIC-CANARY-20260723",
+  "audience": "external-team",
+  "mode": "link-only",
+  "sourceDir": ".",
+  "entrypoint": "index.html",
+  "confidentiality": "SYNTHETIC · CONFIDENTIAL REVIEW",
+  "viewports": [
+    {"name": "desktop", "width": 1440, "height": 1000, "screenshot": "desktop.png"},
+    {"name": "true-390", "width": 390, "height": 844, "screenshot": "true-390.png"}
+  ]
+}
