@@ -1,0 +1,31 @@
+{
+  "schema": "arco.review-artifact/v1",
+  "product": "mission-control",
+  "issue": "umcp-host-canary",
+  "version": "v1-eb739d0c",
+  "source_sha": "eb739d0c05bf98a5ec9feb23caf9eccbee193bd4",
+  "title": "UMCP Host Canary",
+  "marker": "UMCP-HOST-CANARY-20260724",
+  "audience": "external-team",
+  "mode": "link-only",
+  "confidentiality": "SYNTHETIC · UMCP HOST CANARY",
+  "expires_at": null,
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "screenshot": "desktop-1440x1000.png"
+    },
+    {
+      "name": "true-390",
+      "width": 390,
+      "height": 844,
+      "screenshot": "mobile-390x844.png"
+    }
+  ],
+  "entrypoint": "index.html",
+  "artifact_path": "artifacts/mission-control/umcp-host-canary/v1-eb739d0c",
+  "published_at": "2026-07-23T15:13:00.292Z",
+  "content_sha256": "5831335d99150d768380306f27ce40da4a2d229555bdaa43ced354559834818f"
+}
